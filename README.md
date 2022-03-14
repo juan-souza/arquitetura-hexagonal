@@ -4,7 +4,7 @@ Arquitetura Hexagonal ou arquitetura de portas e adaptadores, tem como objetivo 
 
 A ideia da Arquitetura Hexagonal é colocar entradas e saídas nas bordas de nosso design. A lógica de negócios não deve depender de expormos uma API REST e não deve depender de onde obtemos os dados.
 
-![Hexagonal](https://github.com/juan-souza/arquitetura-hexagonal/blob/main/arqhexagonal/arquitetura-hexagonal.png)
+![Hexagonal](https://github.com/juan-souza/arquitetura-hexagonal/blob/master/doc/arquitetura-hexagonal.png)
 
 
 #### Notes
